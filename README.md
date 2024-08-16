@@ -1,4 +1,4 @@
 # Intro
 GitRepo Demo
 <br>
-Author - Drik Pual
+Author - Drik Paul (Demo)
